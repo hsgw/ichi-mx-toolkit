@@ -4,9 +4,10 @@ ichi mx 基板を使用したキーボードをモデリングするためのデ
 
 ## 利用規約
 
-- ライセンスは CC BY 4.0 です。詳しくは下部のライセンスの条項を見て下さい。
+- 3D モデルのライセンスは CC BY 4.0 です。詳しくは下部のライセンスの条項を見て下さい。
 - CC にもある通り、このデータを使用した場合に起こり得る一切の不利益・事故など全てにおいて保証はされません。
 - 3D モデルはある程度の製造誤差を考えて設計していますが、モデルそのものや製造する機械・素材によって誤差は異なります。
+- 3D モデルを参考にして同じような基板を作った場合、お会いしたときによかったら 1 枚下さい。
 
 ## キーマップの書き換え
 
@@ -64,12 +65,18 @@ USB ケーブルをとりつけるためのスペースとスイッチが押し�
 
 ## ライセンス
 
-![CC BY 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
+### 3D モデル
+
+![CC BY 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)
 
 (c) 2025 Takuya Urakawa, 5z6p Instruments
 
 このリポジトリにある 3D モデルやデータは全て Creative Commons BY 4.0 の下でライセンスされ、利用いただけます。  
 ライセンスにある通り、著作権者表示をしていただければ、商用・改変など自由にお使い下さい。
+
+### ファームウェア
+
+`firmware/`以下のファイルは元著作物の(ch55xduino)[https://github.com/ch55xduino/ch55xduino]を継承して、GNU Lesser General Public License v2.1 でライセンスされます。
 
 ## 連絡先
 
