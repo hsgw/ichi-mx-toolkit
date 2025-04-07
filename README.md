@@ -7,13 +7,12 @@ ichi mx 基板を使用したキーボードをモデリングするためのデ
 - 3D モデルのライセンスは CC BY 4.0 です。詳しくは下部のライセンスの条項を見て下さい。
 - CC にもある通り、このデータを使用した場合に起こり得る一切の不利益・事故など全てにおいて保証はされません。
 - 3D モデルはある程度の製造誤差を考えて設計していますが、モデルそのものや製造する機械・素材によって誤差は異なります。
-- 3D モデルを参考にして同じような基板を作った場合、お会いしたときによかったら 1 枚下さい。
+- 3D モデルを参考にして同じような基板を作った場合、お会いしたときによかったら 1枚下さい。
 
-## キーマップの書き換え
+## ビルドガイド・キーマップの書き換え
 
-Remap/via 用の JSON ファイルです。
-
-[ichi_mx.json](firmware/ichi_mx/ichi_mx.json)
+- [ビルドガイド](buildguide_jp.md)
+- [Remap/via用JSONファイル](firmware/ichi_mx/ichi_mx.json)
 
 ## 3D モデル
 
@@ -75,10 +74,7 @@ USB ケーブルをとりつけるためのスペースとスイッチが押し�
 
 ### ファームウェア
 
-`firmware/`以下のファイルは元著作物の[ch55xduino](https://github.com/DeqingSun/ch55xduino)を継承して、GNU Lesser General Public License v2.1 でライセンスされます。
-
-https://github.com/DeqingSun/ch55xduino
-https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html
+https://github.com/hsgw/ichi-mx-firmware
 
 ## 連絡先
 
